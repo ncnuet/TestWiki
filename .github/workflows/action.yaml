@@ -1,8 +1,6 @@
 name: Update Wiki
 on:
   push:
-    paths:
-      - 'wiki/**'
     branches:
       - main
 jobs:
